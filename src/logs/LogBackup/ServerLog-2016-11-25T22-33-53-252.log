@@ -1,0 +1,70 @@
+=== Started 2016-11-25T22-01-31-371 ===
+[INFO ][22:01:31] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[INFO ][22:01:31] 0 IP ban records loaded.
+[WARN ][22:01:31] User account "Local Administrator" disabled
+[WARN ][22:01:31] User account "Local Moderator" disabled
+[WARN ][22:01:31] User account "Local User" disabled
+[INFO ][22:01:31] 0 user records loaded.
+[INFO ][22:01:31] 25 bad words loaded
+[WARN ][22:01:31] TLS: not supported (SSL certificate not found!)
+[INFO ][22:01:31] WebSocket: ws
+[INFO ][22:01:31] Started stats server on port 88
+[INFO ][22:01:31] Listening on port 443
+[INFO ][22:01:31] Current game mode is Free For All
+[NONE ][22:01:47]  Player has joined the server!
+[NONE ][22:01:47] CONNECTED    127.0.0.1:60335, origin: "http://agar.io"
+[NONE ][22:02:06] >minion 1 100 <CGF>
+[NONE ][22:02:06] Added 100 minions for ༄Ⓖ༄ CGF
+[NONE ][22:02:24] >minion 1 600 <CGF>
+[NONE ][22:02:24] Added 600 minions for ༄Ⓖ༄ CGF
+[NONE ][22:06:19] >server restart
+[WARN ][22:06:19] Invalid Command!
+[NONE ][22:06:23] >addbot 50
+[NONE ][22:06:23] Added 50 player bots
+[NONE ][22:06:31] >restart server
+[WARN ][22:06:31] Invalid Command!
+[NONE ][22:06:35] >restart
+[WARN ][22:06:35] Invalid Command!
+[NONE ][22:07:23] >help
+[NONE ][22:07:23] ======================== HELP ======================
+[NONE ][22:07:23] addbot [number]              : adds bots to the server
+[NONE ][22:07:23] kickbot [number]             : kick a number of bots
+[NONE ][22:07:23] ban [PlayerID | IP]          : bans a(n) (player's) IP
+[NONE ][22:07:23] banlist                      : get list of banned IPs.
+[NONE ][22:07:23] board [string] [string] ...  : set scoreboard text
+[NONE ][22:07:23] change [setting] [value]     : change specified settings
+[NONE ][22:07:23] clear                        : clear console output
+[NONE ][22:07:23] color [PlayerID] [R] [G] [B] : set cell(s) color by client ID
+[NONE ][22:07:23] exit                         : stop the server
+[NONE ][22:07:23] kick [PlayerID]              : kick player or bot by client ID
+[NONE ][22:07:23] kickall                      : kick all players and bots
+[NONE ][22:07:23] mute [PlayerID]              : mute player (block chat messages from him)
+[NONE ][22:07:23] unmute [PlayerID]            : unmute player (allow chat messages from him)
+[NONE ][22:07:23] kill [PlayerID]              : kill cell(s) by client ID
+[NONE ][22:07:23] killall                      : kill everyone
+[NONE ][22:07:23] mass [PlayerID] [mass]       : set cell(s) mass by client ID
+[NONE ][22:07:23] merge [PlayerID]             : merge all client's cells once
+[NONE ][22:07:23] name [PlayerID] [name]       : change cell(s) name by client ID
+[NONE ][22:07:23] playerlist                   : get list of players and bots
+[NONE ][22:07:23] pause                        : pause game , freeze all cells
+[NONE ][22:07:23] reload                       : reload config
+[NONE ][22:07:23] status                       : get server status
+[NONE ][22:07:23] unban [IP]                   : unban an IP
+[NONE ][22:07:23] minion [PlayerID] [#] [name] : adds suicide minions to the server
+[NONE ][22:07:23] spawnmass [PlayerID] [mass]  : sets players spawn mass
+[NONE ][22:07:23] freeze [PlayerID]            : freezes a player
+[NONE ][22:07:23] speed [PlayerID]             : sets a players base speed
+[NONE ][22:07:23] rec [PlayerID]               : puts a player in rec mode
+[NONE ][22:07:23] st                           : alias for status
+[NONE ][22:07:23] pl                           : alias for playerlist
+[NONE ][22:07:23] m                            : alias for mass
+[NONE ][22:07:23] sm                           : alias for spawnmass
+[NONE ][22:07:23] ka                           : alias for killall
+[NONE ][22:07:23] k                            : alias for kill
+[NONE ][22:07:23] mg                           : alias for merge
+[NONE ][22:07:23] s                            : alias for speed
+[NONE ][22:07:23] ====================================================
+[NONE ][22:07:27] >killall
+[NONE ][22:07:27] Removed 980 cells
+[NONE ][22:15:32] >killall
+[NONE ][22:15:32] Removed 997 cells

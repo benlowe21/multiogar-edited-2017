@@ -1,0 +1,22 @@
+=== Started 2016-11-24T23-15-02-677 ===
+[INFO ][23:15:02] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[INFO ][23:15:02] 0 IP ban records loaded.
+[WARN ][23:15:02] User account "Local Administrator" disabled
+[WARN ][23:15:02] User account "Local Moderator" disabled
+[WARN ][23:15:02] User account "Local User" disabled
+[INFO ][23:15:02] 0 user records loaded.
+[INFO ][23:15:02] 25 bad words loaded
+[WARN ][23:15:02] TLS: not supported (SSL certificate not found!)
+[INFO ][23:15:02] WebSocket: ws
+[INFO ][23:15:02] Started stats server on port 88
+[INFO ][23:15:02] Listening on port 443
+[INFO ][23:15:02] Current game mode is Free For All
+[NONE ][23:15:03]  Player has joined the server!
+[NONE ][23:15:03] CONNECTED    127.0.0.1:56059, origin: "http://agar.io"
+[NONE ][23:16:34] >addbot 50
+[NONE ][23:16:34] Added 50 player bots
+[NONE ][23:17:14] >minion 1 200 < >
+[NONE ][23:17:15] Added 200 minions for An unnamed cell
+[NONE ][23:23:01] >minion 1 100 < >
+[NONE ][23:23:01] Added 100 minions for ༄Ⓖ༄ CGF
+[NONE ][23:45:18] DISCONNECTED 127.0.0.1:56059, code: 1006, reason: "", name: "༄Ⓖ༄ CGF"

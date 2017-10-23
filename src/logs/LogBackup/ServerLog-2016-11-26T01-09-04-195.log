@@ -1,0 +1,22 @@
+=== Started 2016-11-26T01-08-48-939 ===
+[INFO ][01:08:48] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[INFO ][01:08:48] 0 IP ban records loaded.
+[WARN ][01:08:48] User account "Local Administrator" disabled
+[WARN ][01:08:48] User account "Local Moderator" disabled
+[WARN ][01:08:48] User account "Local User" disabled
+[INFO ][01:08:48] 0 user records loaded.
+[INFO ][01:08:48] 25 bad words loaded
+[WARN ][01:08:49] TLS: not supported (SSL certificate not found!)
+[INFO ][01:08:49] WebSocket: ws
+[INFO ][01:08:49] Started stats server on port 88
+[INFO ][01:08:49] Listening on port 443
+[INFO ][01:08:49] Current game mode is Free For All
+[NONE ][01:08:49]  Player has joined the server!
+[NONE ][01:08:49] CONNECTED    127.0.0.1:61718, origin: "http://agar.io"
+[NONE ][01:08:52] DISCONNECTED 127.0.0.1:61718, code: 1000, reason: "", name: ""
+[NONE ][01:08:53]  Player has joined the server!
+[NONE ][01:08:53] CONNECTED    127.0.0.1:61721, origin: "http://agar.io"
+[NONE ][01:08:53] DISCONNECTED 127.0.0.1:61721, code: 1000, reason: "", name: ""
+[NONE ][01:08:54]  Player has joined the server!
+[NONE ][01:08:54] CONNECTED    127.0.0.1:61723, origin: "http://agar.io"
+[NONE ][01:08:58] >minion 1 600 </random>

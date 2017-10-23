@@ -1,0 +1,16 @@
+=== Started 2016-11-25T21-45-20-778 ===
+[INFO ][21:45:20] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[INFO ][21:45:20] 0 IP ban records loaded.
+[WARN ][21:45:20] User account "Local Administrator" disabled
+[WARN ][21:45:20] User account "Local Moderator" disabled
+[WARN ][21:45:20] User account "Local User" disabled
+[INFO ][21:45:20] 0 user records loaded.
+[INFO ][21:45:20] 25 bad words loaded
+[WARN ][21:45:20] TLS: not supported (SSL certificate not found!)
+[INFO ][21:45:20] WebSocket: ws
+[INFO ][21:45:20] Started stats server on port 88
+[ERROR][21:45:20] WebSocket: EADDRINUSE - listen EADDRINUSE 0.0.0.0:443
+[ERROR][21:45:20] Server could not bind to port 443!
+[ERROR][21:45:20] Please close out of Skype or change 'serverPort' in gameserver.ini to a different number.
+[DEBUG][21:45:20] process.exit(1)
+=== Shutdown 2016-11-25T21-45-20-921 ===

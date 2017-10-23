@@ -1,0 +1,27 @@
+=== Started 2016-11-26T22-18-30-191 ===
+[INFO ][22:18:30] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[INFO ][22:18:30] 0 IP ban records loaded.
+[WARN ][22:18:30] User account "Local Administrator" disabled
+[WARN ][22:18:30] User account "Local Moderator" disabled
+[WARN ][22:18:30] User account "Local User" disabled
+[INFO ][22:18:30] 0 user records loaded.
+[INFO ][22:18:30] 25 bad words loaded
+[WARN ][22:18:30] TLS: not supported (SSL certificate not found!)
+[INFO ][22:18:30] WebSocket: ws
+[INFO ][22:18:30] Started stats server on port 88
+[INFO ][22:18:30] Listening on port 443
+[INFO ][22:18:30] Current game mode is Free For All
+[NONE ][22:18:30]  Player has joined the server!
+[NONE ][22:18:30] CONNECTED    127.0.0.1:50372, origin: "http://agar.io"
+[NONE ][22:18:32]  Player has joined the server!
+[NONE ][22:18:32] CONNECTED    127.0.0.1:50374, origin: "http://agar.io"
+[NONE ][22:18:33]  Player has joined the server!
+[NONE ][22:18:33] CONNECTED    127.0.0.1:50376, origin: "http://agar.io"
+[NONE ][22:18:35]  Player has joined the server!
+[NONE ][22:18:35] CONNECTED    127.0.0.1:50378, origin: "http://agar.io"
+[NONE ][22:18:38] >minion 1 300 <CGF>
+[NONE ][22:18:38] Added 300 minions for An unnamed cell
+[NONE ][22:18:43] DISCONNECTED 127.0.0.1:50378, code: 1006, reason: "", name: "CGF"
+[NONE ][22:18:43] DISCONNECTED 127.0.0.1:50376, code: 1006, reason: "", name: ""
+[NONE ][22:18:43] DISCONNECTED 127.0.0.1:50372, code: 1006, reason: "", name: ""
+[NONE ][22:18:43] DISCONNECTED 127.0.0.1:50374, code: 1006, reason: "", name: ""

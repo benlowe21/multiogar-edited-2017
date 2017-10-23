@@ -1,0 +1,13 @@
+=== Started 2017-10-12T17-00-27-206 ===
+[INFO ][17:00:27] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[INFO ][17:00:27] 0 IP ban records loaded.
+[WARN ][17:00:27] User account "Local Administrator" disabled
+[WARN ][17:00:27] User account "Local Moderator" disabled
+[WARN ][17:00:27] User account "Local User" disabled
+[INFO ][17:00:27] 0 user records loaded.
+[INFO ][17:00:27] 25 bad words loaded
+[WARN ][17:00:27] TLS: not supported (SSL certificate not found!)
+[INFO ][17:00:27] WebSocket: ws
+[INFO ][17:00:27] Started stats server on port 88
+[INFO ][17:00:27] Listening on port 443
+[INFO ][17:00:27] Current game mode is Free For All

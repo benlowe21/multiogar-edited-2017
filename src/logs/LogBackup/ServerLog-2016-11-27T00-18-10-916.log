@@ -1,0 +1,17 @@
+=== Started 2016-11-27T00-15-14-809 ===
+[INFO ][00:15:14] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[INFO ][00:15:14] 0 IP ban records loaded.
+[WARN ][00:15:14] User account "Local Administrator" disabled
+[WARN ][00:15:14] User account "Local Moderator" disabled
+[WARN ][00:15:14] User account "Local User" disabled
+[INFO ][00:15:14] 0 user records loaded.
+[INFO ][00:15:14] 25 bad words loaded
+[WARN ][00:15:14] TLS: not supported (SSL certificate not found!)
+[INFO ][00:15:14] WebSocket: ws
+[INFO ][00:15:14] Started stats server on port 88
+[INFO ][00:15:14] Listening on port 443
+[INFO ][00:15:14] Current game mode is Free For All
+[NONE ][00:15:16]  Player has joined the server!
+[NONE ][00:15:16] CONNECTED    127.0.0.1:53861, origin: "http://agar.io"
+[NONE ][00:15:31] >minion 1 1000 cgfisthegod
+[NONE ][00:15:31] Added 1000 minions for An unnamed cell

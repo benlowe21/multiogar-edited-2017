@@ -1,0 +1,33 @@
+=== Started 2016-11-25T22-41-56-529 ===
+[INFO ][22:41:56] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[INFO ][22:41:56] 0 IP ban records loaded.
+[WARN ][22:41:56] User account "Local Administrator" disabled
+[WARN ][22:41:56] User account "Local Moderator" disabled
+[WARN ][22:41:56] User account "Local User" disabled
+[INFO ][22:41:56] 0 user records loaded.
+[INFO ][22:41:56] 25 bad words loaded
+[WARN ][22:41:56] TLS: not supported (SSL certificate not found!)
+[INFO ][22:41:56] WebSocket: ws
+[INFO ][22:41:56] Started stats server on port 88
+[INFO ][22:41:56] Listening on port 443
+[INFO ][22:41:56] Current game mode is Free For All
+[NONE ][22:41:59]  Player has joined the server!
+[NONE ][22:41:59] CONNECTED    127.0.0.1:61059, origin: "http://agar.io"
+[NONE ][22:42:08] >minion 1 1000 <CGF>
+[NONE ][22:42:09] Added 1000 minions for An unnamed cell
+[NONE ][22:44:09] >killall
+[NONE ][22:44:09] Removed 1016 cells
+[NONE ][22:44:18] >minion 1 1000 <CGF>
+[NONE ][22:44:18] Added 1000 minions for ༄Ⓖ༄ CGF
+[NONE ][22:46:01] >killall
+[NONE ][22:46:02] Removed 2014 cells
+[NONE ][22:46:06] >minion 1 1000 <CGF>
+[NONE ][22:46:07] Added 1000 minions for ༄Ⓖ༄ CGF
+[NONE ][22:48:27] >minion 1 1000 <CGF>
+[NONE ][22:48:28] Added 1000 minions for ༄Ⓖ༄ CGF
+[NONE ][22:48:29] >killall
+[NONE ][22:48:29] Removed 4016 cells
+[NONE ][22:50:42] >minion 1 1000 <CGF>
+[NONE ][22:50:42] Added 1000 minions for ༄Ⓖ༄ CGF
+[NONE ][22:50:44] >killall
+[NONE ][22:50:45] Removed 5006 cells

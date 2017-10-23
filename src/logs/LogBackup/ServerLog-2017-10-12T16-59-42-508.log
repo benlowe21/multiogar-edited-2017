@@ -1,0 +1,49 @@
+=== Started 2016-11-27T21-18-36-980 ===
+[INFO ][21:18:36] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[INFO ][21:18:37] 0 IP ban records loaded.
+[WARN ][21:18:37] User account "Local Administrator" disabled
+[WARN ][21:18:37] User account "Local Moderator" disabled
+[WARN ][21:18:37] User account "Local User" disabled
+[INFO ][21:18:37] 0 user records loaded.
+[INFO ][21:18:37] 25 bad words loaded
+[WARN ][21:18:37] TLS: not supported (SSL certificate not found!)
+[INFO ][21:18:37] WebSocket: ws
+[INFO ][21:18:37] Started stats server on port 88
+[INFO ][21:18:37] Listening on port 443
+[INFO ][21:18:37] Current game mode is Free For All
+[NONE ][21:18:39]  Player has joined the server!
+[NONE ][21:18:39] CONNECTED    127.0.0.1:56293, origin: "http://agar.io"
+[NONE ][21:18:45] >minion 1 100 CGFAGARIO
+[NONE ][21:18:45] Added 100 minions for An unnamed cell
+[NONE ][21:22:45] >killall
+[NONE ][21:22:45] Removed 407 cells
+[NONE ][21:25:05] >killall
+[NONE ][21:25:05] Removed 310 cells
+[NONE ][21:25:18] >minion 1 100 CGFAGARIO
+[NONE ][21:25:18] Added 100 minions for CGF
+[NONE ][21:26:05] >minion 1
+[NONE ][21:26:05] Succesfully removed minions for CGF
+[NONE ][21:26:15] >killall
+[NONE ][21:26:15] Removed 16 cells
+[NONE ][21:26:36] >mass 1 200
+[NONE ][21:26:36] Set mass of CGF to 200.000
+[NONE ][21:26:53] >minion 1 100 </random> CGFBOTS
+[NONE ][21:26:53] Added 100 minions for CGF
+[NONE ][21:27:13] >mass 1 200
+[NONE ][21:27:13] Set mass of CGF to 200.000
+[NONE ][21:27:33] >minion 1 100 CGF
+[NONE ][21:27:33] Added 100 minions for CGF
+[NONE ][21:28:22] >killall
+[NONE ][21:28:22] Removed 482 cells
+[NONE ][21:28:25] >minion 1
+[NONE ][21:28:25] Succesfully removed minions for CGF
+[NONE ][21:28:42] >minion 1 100 CGFAGARIO
+[NONE ][21:28:42] Added 100 minions for CGF
+[NONE ][21:28:54] >mass 1 50
+[NONE ][21:28:54] Set mass of CGF to 50.000
+[NONE ][21:29:10] >mass 1 150
+[NONE ][21:29:10] Set mass of CGF to 150.000
+[NONE ][21:29:44] >killall
+[NONE ][21:29:44] Removed 592 cells
+[NONE ][21:29:53] >mass 1 100
+[NONE ][21:29:53] Set mass of CGF to 100.000
